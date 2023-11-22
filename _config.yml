@@ -1,6 +1,15 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Prachi Tyagi </p>
+logo: /assets/img/profile_photo.jpg
+
+description:
+  <p align="center">
+  <br>   
+   I'm working as a Tech Lead with over 14 years of experience in the industry.
+   I have expereince in multiple tech stack such as Java, kotlin, React, Typescript, AWS, AZure, Spark, Devops to 
+   name a few.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
